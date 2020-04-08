@@ -1,10 +1,10 @@
-## Easy React JS for Beginners Ebook (Todos App React Hooks Starter)
+## Easy React JS for Beginners Ebook (Todos App React Hooks Code)
 
-To follow the React Hooks chapter
+To follow this React Hooks chapter
 
-### Clone this project
+### Clone the starter project
 
-You can download or clone this project by running this command from your terminal:
+You can download or clone the starter project by running this command from your terminal:
 
 ```
 git clone https://github.com/Ibaslogic/todos-app-hooks-starter
@@ -29,3 +29,13 @@ npm start
 ```
 
 You should see this app in your browser address bar at [http://localhost:3000](http://localhost:3000)
+
+### To clone this React Hooks final project
+
+Run this command:
+
+```
+git clone https://github.com/Ibaslogic/todos-react-hooks
+```
+
+And follow the above steps.
